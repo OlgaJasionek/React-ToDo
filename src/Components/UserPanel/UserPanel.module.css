@@ -1,0 +1,21 @@
+.btnPanel {
+	display: flex;
+	justify-content: flex-end;
+	width: 50%;
+}
+button {
+	margin: 15px;
+	width: 30%;
+	height: 50px;
+	border-radius: 5px;
+  border-color: white;
+	background-color: rgb(48, 48, 48);
+	color: white;
+	font-size: 18px;
+	cursor: pointer;
+	transition: all, 0.5s;
+}
+.active{
+  background-color: rgb(4, 100, 14);
+  color: white;
+}

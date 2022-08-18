@@ -1,0 +1,35 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+.taskInput {
+	margin: 20px;
+	padding: 8px 20px;
+	width: 30%;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	background-color: transparent;
+	border-color: white;
+	border-radius: 5px;
+}
+.button {
+	color: black;
+	margin: px;
+	height: 60px;
+	width: 10%;
+	background-color: white;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	transition: all 0.5s;
+	cursor: pointer;
+}
+.button:hover {
+	background-color: rgb(4, 100, 14);
+	color: aliceblue;
+}

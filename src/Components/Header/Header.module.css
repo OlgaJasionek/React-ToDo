@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	height: 150px;
+	color: rgb(249, 243, 243);
+  font-size: 22px;
+}
